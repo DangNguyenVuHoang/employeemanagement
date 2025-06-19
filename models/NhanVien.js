@@ -41,7 +41,7 @@ export default class NhanVien {
 
   tinhTongLuong() {
     switch (this.chucVu) {
-      case "Sếp":
+      case "Giám đốc":
         this.tongLuong = this.luongCB * 3;
         break;
       case "Trưởng phòng":

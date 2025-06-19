@@ -224,7 +224,7 @@ function validateNV(nv) {
         clearError("tbLuongCB");
     }
 
-    const validChucVu = ["Sếp", "Trưởng phòng", "Nhân viên"];
+    const validChucVu = ["Giám đốc", "Trưởng phòng", "Nhân viên"];
     if (!validChucVu.includes(nv.chucVu)) {
         showError("tbChucVu", "Vui lòng chọn chức vụ hợp lệ");
         valid = false;
@@ -287,7 +287,7 @@ function validateNVEdit(nv) {
         clearError("tbLuongCBEdit");
     }
 
-    const validChucVu = ["Sếp", "Trưởng phòng", "Nhân viên"];
+    const validChucVu = ["Giám đốc", "Trưởng phòng", "Nhân viên"];
     if (!validChucVu.includes(nv.chucVu)) {
         showError("tbChucVuEdit", "Vui lòng chọn chức vụ hợp lệ");
         valid = false;

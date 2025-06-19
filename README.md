@@ -12,11 +12,13 @@ A website management employee, the design main develop project uses local storag
 ## Features
 ### Core Functionality
 - List NhanVien
-- Modal input NhanVien
+- Modal add input NhanVien
+- Modal update input NhanVien
 - Proccess button AddNhanVien
 - Proccess button UpdateNhanVien
 - Proccess button DeleteNhanVien
 - Check validation input
+- Caculator logic value of NhanVien ( Tính tổng lương nhân viên, tính số giờ làm của nhân viên để xếp loại )
 
 ## Demo
 

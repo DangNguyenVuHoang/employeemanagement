@@ -18,7 +18,7 @@ The employees management website, the design main develop project uses local sto
 - Process button UpdateNhanVien
 - Process button DeleteNhanVien
 - Check validation input
-- Caculator logic value of NhanVien ( Tính tổng lương nhân viên, tính số giờ làm của nhân viên để xếp loại(Giám đốc, Trưởng phòng, Nhân viên) )
+- Caculator logic value of NhanVien ( Tính tổng lương nhân viên, tính số giờ làm của nhân viên để xếp loại(Xuất sắc, giỏi, khá, trung bình) )
 
 ## Demo
 

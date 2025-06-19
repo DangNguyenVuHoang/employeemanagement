@@ -23,7 +23,7 @@ A website management employee, the design main develop project uses local storag
 ## Demo
 
 Experience the live application:  
-🔗 [https://practicearray.vercel.app/](http://employeemanagement-gold.vercel.app/)
+🔗 (http://employeemanagement-gold.vercel.app/)
 
 ## Installation
 

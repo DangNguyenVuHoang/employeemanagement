@@ -1,7 +1,6 @@
 # Array Operations Web App
 
 [![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](http://employeemanagement-gold.vercel.app/)
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
 <img width="1491" alt="Ảnh màn hình 2025-06-19 lúc 14 09 02" src="https://github.com/user-attachments/assets/ab0afb13-077e-4d1e-b283-1578139197ba" />

@@ -48,15 +48,21 @@ xdg-open index.html # Linux
 # Usage
 ### Add Elements (NhanVien):
 Click "Thêm Nhân Viên"
+
 Enter value in the input field
+
 Click " Thêm người dùng"
+
 Click " Đóng"
 ### Delete Elements (NhanVien):
 Click " Xoá"
 ### Update Elements (NhanVien):
 Click " Sửa"
+
 Enter value in the input field
+
 Click " Cập nhật"
+
 Click " Đóng"
 ### Tech Stack:
 Frontend:

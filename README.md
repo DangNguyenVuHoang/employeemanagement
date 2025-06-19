@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](http://employeemanagement-gold.vercel.app/)
 
 
-<img width="1491" alt="Ảnh màn hình 2025-06-19 lúc 14 09 02" src="https://github.com/user-attachments/assets/ab0afb13-077e-4d1e-b283-1578139197ba" />
+<img width="1464" alt="Ảnh màn hình 2025-06-19 lúc 15 00 09" src="https://github.com/user-attachments/assets/618c62a1-ab1d-40ef-867a-daeac55e0158" />
 
 
 A website management employee, the design main develop project uses local storage, array and object. Check validation input to tài khoản, họ và tên, email, mật khẩu, ngày làm, lương cơ bản, chức vụ, giờ làm, tổng lương, loại nhân viên.
@@ -14,11 +14,11 @@ A website management employee, the design main develop project uses local storag
 - List NhanVien
 - Modal add input NhanVien
 - Modal update input NhanVien
-- Proccess button AddNhanVien
-- Proccess button UpdateNhanVien
-- Proccess button DeleteNhanVien
+- Process button AddNhanVien
+- Process button UpdateNhanVien
+- Process button DeleteNhanVien
 - Check validation input
-- Caculator logic value of NhanVien ( Tính tổng lương nhân viên, tính số giờ làm của nhân viên để xếp loại )
+- Caculator logic value of NhanVien ( Tính tổng lương nhân viên, tính số giờ làm của nhân viên để xếp loại(Giám đốc, Trưởng phòng, Nhân viên) )
 
 ## Demo
 

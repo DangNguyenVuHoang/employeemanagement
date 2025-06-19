@@ -6,7 +6,7 @@
 <img width="1464" alt="Ảnh màn hình 2025-06-19 lúc 15 00 09" src="https://github.com/user-attachments/assets/618c62a1-ab1d-40ef-867a-daeac55e0158" />
 
 
-A website management employee, the design main develop project uses local storage, array and object. Check validation input to tài khoản, họ và tên, email, mật khẩu, ngày làm, lương cơ bản, chức vụ, giờ làm, tổng lương, loại nhân viên.
+The employees management website, the design main develop project uses local storage, array and object. Check validation input to tài khoản, họ và tên, email, mật khẩu, ngày làm, lương cơ bản, chức vụ, giờ làm, tổng lương, loại nhân viên.
 
 
 ## Features

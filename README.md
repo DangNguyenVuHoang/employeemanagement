@@ -62,6 +62,7 @@ Click " Đóng"
 Frontend:
 HTML5 (Semantic markup)
 CSS3 (Flexbox, Grid, Variables)
+Bootstrap Css
 Vanilla JavaScript (ES6+)
 
 ### Tools:
